@@ -1,0 +1,28 @@
+{
+  "ban_list": {
+    "another_banned_id": true,
+    "bad_hacker_device_id_here": true
+  },
+  "keys": {
+    "872975": {
+      "bind_id": "89d7pa7fal897f9f",
+      "client_name": "DPMods",
+      "expire_date": "2026-10-09",
+      "payment": "999₹"
+    }
+  },
+  "panel_config": {
+    "admin_url": "https://t.me/DP_Mods",
+    "maintenance": {
+      "enabled": false,
+      "message": "Server is under maintenance. Please wait..."
+    },
+    "qr_image_url": "https://i.pinimg.com/736x/24/c1/e2/24c1e2e34d329aff240899de1c17d9f9.jpg",
+    "update": {
+      "enabled": false,
+      "message": "A new premium update is available! Please download it.",
+      "url": "https://t.me/DP_Mods",
+      "version_code": 2
+    }
+  }
+}
