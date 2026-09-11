@@ -1,28 +1,110 @@
-{
-  "ban_list": {
-    "another_banned_id": true,
-    "bad_hacker_device_id_here": true
+ {
+  "config": {
+    "country": "India",
+    "backgroundTheme": "rain",
+    "updateAvailable": false,
+    "themeColor": "#8e44ad",
+    "textColor": "#ff36d654"
+  },
+  "loginDialog": {
+    "title": "رمز(1234)",
+    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه",
+    "loginButtonText": "ورود",
+    "adminButtonText": "مدیر تلگرام کلید",
+    "adminUrl": "https://t.me/grassmohammad"
+  },
+  "updateDialog": {
+    "title": "V2rayVPN",
+    "subtitle": "فیلترشکن قفل میکنم بازش کنم دزدی زیاده بازش بزارم خراب میشه",
+    "downloadButtonText": "🌐🎞️📽️🌐",
+    "downloadUrl": "",
+    "showAdminButton": false,
+    "adminButtonText": "Contact Support",
+    "adminUrl": ""
   },
   "keys": {
-    "872975": {
-      "bind_id": "89d7pa7fal897f9f",
-      "client_name": "DPMods",
-      "expire_date": "2026-10-09",
-      "payment": "999₹"
-    }
-  },
-  "panel_config": {
-    "admin_url": "https://t.me/DP_Mods",
-    "maintenance": {
-      "enabled": false,
-      "message": "Server is under maintenance. Please wait..."
+    "Mohammad-11": {
+      "expiry": "10m",
+      "interval": "everytime",
+      "toast": "No🕛⏳"
     },
-    "qr_image_url": "https://i.pinimg.com/736x/24/c1/e2/24c1e2e34d329aff240899de1c17d9f9.jpg",
-    "update": {
-      "enabled": false,
-      "message": "A new premium update is available! Please download it.",
-      "url": "https://t.me/DP_Mods",
-      "version_code": 2
-    }
+    "Mohammad-128235653": {
+      "expiry": "1m",
+      "interval": "1week",
+      "toast": "✅ محمد ✅"
+    },
+    "8-DAY-KEY": {
+      "expiry": "2m",
+      "interval": "1week",
+      "toast": "3-Day License Verified ✅"
+    },
+    "7-DAY-WEEKLY": {
+      "expiry": "7d",
+      "interval": "1d",
+      "toast": "Weekly Pass Active 📅"
+    },
+    "MONTHLY-VIP": {
+      "expiry": "1m",
+      "interval": "1week",
+      "toast": "Welcome back, Monthly VIP! 💎"
+    },
+    "YEARLY-PRO": {
+      "expiry": "1y",
+      "interval": "1week",
+      "toast": "Yearly Subscription Valid 🌟"
+    },
+    "LIFETIME-GOD": {
+      "expiry": "lifetime",
+      "interval": "30d",
+      "toast": "Lifetime Access Granted 👑"
+    },
+    
+    "1234": {
+      "expiry": "lifetime",
+      "interval": "1week",
+      "device_ids": [
+        "1e676b4a583054ed",
+        "f0becd73c10c593a",
+        "e83808af11039394",
+        "4f9510b92447f489",
+        "eed8a7892823ac3f",
+        "00b79d66c0406891",
+        "b9304375c4baae49",
+        "bbe99075ae8e9dd0",
+        "86d868a92505849e",
+        "a22e7fdef13bc7ef",
+        "9976d31cc9c795cf",
+        "cfd074561901649e",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+      ],
+      "toast": "OK📱"
+    },
+    "FIXED-DATE-KEY": {
+      "expiry": "2024-12-31",
+      "interval": "everytime",
+      "toast": "OK✅🌐"
+    },
+    "SIMPLE-KEY-OLD-STYLE1": "2024-01-01"
   }
 }
+
+false
+true
+        
