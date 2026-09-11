@@ -5,6 +5,9 @@
     "updateAvailable": false,
     "themeColor": "#8e44ad",
     "textColor": "#ff36d654"
+    "title": "Welcome"
+   "subtitle": "Please login."
+   
   },
   "loginDialog": {
     "title": "رمز(1234)",
