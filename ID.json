@@ -8,6 +8,7 @@
     "title": "Welcome"
    "subtitle": "Please login."
    "backgroundTheme": "none"
+   "title": "Update Available"
    
   },
   "loginDialog": {
